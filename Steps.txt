@@ -1,0 +1,6 @@
+1. Create the code verifier and challenge // DONE
+2. Construct the authorization URI // 
+3. redirects the user to the authorization URI
+4. Your app exchanges the code for an access token
+5. Use the access token to access the Spotify Web API
+6. Requesting a refreshed access token
